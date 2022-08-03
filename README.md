@@ -1,6 +1,6 @@
 # C语言程序——学生管理系统
 
-
+Gitee码云地址：https://gitee.com/weh_coder/student_manage_system
  #### 功能介绍
 
 1. 添加学生信息；
